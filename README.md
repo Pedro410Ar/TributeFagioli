@@ -1,7 +1,7 @@
 # TributeFagioli
 Page Tributo a Marcelo Fagioli
 
-<img width=300 height= 200 src="https://github.com/Pedro410Ar/TributeFagioli/blob/master/img/Portada-Fagioli.jpg"/>
+<img width=600 height= 400 src="https://github.com/Pedro410Ar/TributeFagioli/blob/master/img/Portada-Fagioli.jpg"/>
 
 Ejercicio de animación de texto, donde se utilizó HTML y CSS.
 
