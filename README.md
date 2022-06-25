@@ -1,5 +1,5 @@
 # TributeFagioli
-Page Tributo a Marcelo Fagioli
+Tribute Page a Marcelo Fagioli
 
 <img width=600 height= 400 src="https://github.com/Pedro410Ar/TributeFagioli/blob/master/img/Portada-Fagioli.jpg"/>
 
